@@ -1,0 +1,12 @@
+{
+  "name": "ecpro-cli",
+  "version": "1.0.0",
+  "description": "ECPRO 電商博士 CLI — 在終端機秒查台灣網站的開店平台、技術、廣告投放與競品。資料來源 ecpro.tw。",
+  "type": "module",
+  "bin": { "ecpro": "index.js" },
+  "files": ["index.js", "README.md"],
+  "engines": { "node": ">=18" },
+  "keywords": ["ecommerce", "taiwan", "ecpro", "cli", "builtwith", "電商"],
+  "license": "MIT",
+  "homepage": "https://ecpro.tw"
+}
